@@ -1,22 +1,22 @@
 export class Model {
    products = [
       {
-         name: "Кола",
+         name: "Beer",
          volume: 20,
          type: "Liquid Products",
       },
       {
-         name: "Квас",
+         name: "Milk",
          volume: 99,
          type: "Liquid Products",
       },
       {
-         name: "Сахар",
+         name: "Sausage",
          volume: 28,
          type: "Buld Products",
       },
       {
-         name: "Рис",
+         name: "Fish",
          volume: 45,
          type: "Buld Products",
       },
